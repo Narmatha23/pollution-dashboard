@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pollution-dashboard/static/css/main.1c9a5e4f.css",
-    "main.js": "/pollution-dashboard/static/js/main.abaa884b.js",
+    "main.js": "/pollution-dashboard/static/js/main.0e2945b5.js",
     "static/media/materialdesignicons-webfont.eot": "/pollution-dashboard/static/media/materialdesignicons-webfont.52adde0de9840940801f.eot",
     "static/media/materialdesignicons-webfont.ttf?v=5.8.55": "/pollution-dashboard/static/media/materialdesignicons-webfont.506bc8215df8660d8f04.ttf",
     "static/media/fa-solid-900.svg": "/pollution-dashboard/static/media/fa-solid-900.18df003f90a7f1313b98.svg",
@@ -69,10 +69,10 @@
     "static/media/avatar-2.jpg": "/pollution-dashboard/static/media/avatar-2.feb0f89de58f0ef9b424.jpg",
     "index.html": "/pollution-dashboard/index.html",
     "main.1c9a5e4f.css.map": "/pollution-dashboard/static/css/main.1c9a5e4f.css.map",
-    "main.abaa884b.js.map": "/pollution-dashboard/static/js/main.abaa884b.js.map"
+    "main.0e2945b5.js.map": "/pollution-dashboard/static/js/main.0e2945b5.js.map"
   },
   "entrypoints": [
     "static/css/main.1c9a5e4f.css",
-    "static/js/main.abaa884b.js"
+    "static/js/main.0e2945b5.js"
   ]
 }
