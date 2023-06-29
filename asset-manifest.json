@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pollution-dashboard/static/css/main.1c9a5e4f.css",
-    "main.js": "/pollution-dashboard/static/js/main.0e2945b5.js",
+    "main.css": "/pollution-dashboard/static/css/main.e43aa2c7.css",
+    "main.js": "/pollution-dashboard/static/js/main.15e86e98.js",
     "static/media/materialdesignicons-webfont.eot": "/pollution-dashboard/static/media/materialdesignicons-webfont.52adde0de9840940801f.eot",
     "static/media/materialdesignicons-webfont.ttf?v=5.8.55": "/pollution-dashboard/static/media/materialdesignicons-webfont.506bc8215df8660d8f04.ttf",
     "static/media/fa-solid-900.svg": "/pollution-dashboard/static/media/fa-solid-900.18df003f90a7f1313b98.svg",
@@ -36,7 +36,6 @@
     "static/media/img-7.png": "/pollution-dashboard/static/media/img-7.0c27f0b4b1572cb02708.png",
     "static/media/fa-brands-400.woff": "/pollution-dashboard/static/media/fa-brands-400.ee26f57bc9e3619b022b.woff",
     "static/media/img1.jpg": "/pollution-dashboard/static/media/img1.5d30e3f4cf09febf3210.jpg",
-    "static/media/maintenance.svg": "/pollution-dashboard/static/media/maintenance.938d28ce46a03edf5d9303e67f1d2028.svg",
     "static/media/fa-solid-900.woff2": "/pollution-dashboard/static/media/fa-solid-900.9451d5fee89b51a20f8a.woff2",
     "static/media/Pro-2b.png": "/pollution-dashboard/static/media/Pro-2b.4fe43f13e486de70e85e.png",
     "static/media/fa-brands-400.woff2": "/pollution-dashboard/static/media/fa-brands-400.31015e861aeb30ff8355.woff2",
@@ -46,14 +45,11 @@
     "static/media/img-2.png": "/pollution-dashboard/static/media/img-2.22568969b30386f63142.png",
     "static/media/Pro-12b.png": "/pollution-dashboard/static/media/Pro-12b.6a1e27c0b7d7382e134b.png",
     "static/media/img-4.png": "/pollution-dashboard/static/media/img-4.9ab8ceb2056f00c02f4e.png",
-    "static/media/error-img.png": "/pollution-dashboard/static/media/error-img.352b9ab6d7d633e85325.png",
     "static/media/Pro-12a.png": "/pollution-dashboard/static/media/Pro-12a.aa99294f8d2d5fbcb2eb.png",
     "static/media/img3.jpg": "/pollution-dashboard/static/media/img3.38bebc7dfdc8241c03e0.jpg",
     "static/media/bg-auth-overlay.png": "/pollution-dashboard/static/media/bg-auth-overlay.175b126e218595495c96.png",
-    "static/media/coming-soon.svg": "/pollution-dashboard/static/media/coming-soon.58c6b5609d4ed2664ac21ba33d2fe679.svg",
     "static/media/dripicons-v2.eot": "/pollution-dashboard/static/media/dripicons-v2.7f392f1e4787b46b3e8b.eot",
     "static/media/dripicons-v2.ttf": "/pollution-dashboard/static/media/dripicons-v2.09c9c870ef8f9cffcc8f.ttf",
-    "static/media/profile-img.png": "/pollution-dashboard/static/media/profile-img.43b59e598ba15abe6eab.png",
     "static/media/fa-regular-400.eot": "/pollution-dashboard/static/media/fa-regular-400.0747be4cba2f8600544f.eot",
     "static/media/fa-regular-400.ttf": "/pollution-dashboard/static/media/fa-regular-400.c3146b3524e97475c094.ttf",
     "static/media/dripicons-v2.woff": "/pollution-dashboard/static/media/dripicons-v2.f19dcc0358afed69d277.woff",
@@ -68,11 +64,11 @@
     "static/media/avatar-5.jpg": "/pollution-dashboard/static/media/avatar-5.a5c59cee7b3dfda1156d.jpg",
     "static/media/avatar-2.jpg": "/pollution-dashboard/static/media/avatar-2.feb0f89de58f0ef9b424.jpg",
     "index.html": "/pollution-dashboard/index.html",
-    "main.1c9a5e4f.css.map": "/pollution-dashboard/static/css/main.1c9a5e4f.css.map",
-    "main.0e2945b5.js.map": "/pollution-dashboard/static/js/main.0e2945b5.js.map"
+    "main.e43aa2c7.css.map": "/pollution-dashboard/static/css/main.e43aa2c7.css.map",
+    "main.15e86e98.js.map": "/pollution-dashboard/static/js/main.15e86e98.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9a5e4f.css",
-    "static/js/main.0e2945b5.js"
+    "static/css/main.e43aa2c7.css",
+    "static/js/main.15e86e98.js"
   ]
 }
