@@ -46,7 +46,7 @@ const WelcomeComp = () => {
                   </Col>
                   <Col xs="6">
                     <h5 className="font-size-15">$35,723</h5>
-                    <p className="text-muted mb-0">Damage Cos</p>
+                    <p className="text-muted mb-0">Damage Cost</p>
                   </Col>
                 </Row>
               </div>
